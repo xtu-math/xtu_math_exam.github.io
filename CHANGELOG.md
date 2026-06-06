@@ -13,3 +13,6 @@ git commit -m "Update changelog"
 
 ## 2026-06-07 00:02
 - 修复 GitHub Pages 项目页配置，并隐藏侧边栏作者链接
+
+## 2026-06-07 01:27
+- 修复 GitHub Pages 配置
