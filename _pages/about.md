@@ -6,6 +6,8 @@ author_profile: true
 
 # XTU 数学课程真题合集
 
+## 项目简介
+
 欢迎访问本页面。本项目用于整理湘潭大学数学相关课程的往年试卷、回忆版试题、非官方答案与复习资料。
 
 本页面为学生自发维护项目，与学校、学院、任课教师官方立场无关。资料仅供课程复习与学习交流使用。
@@ -13,13 +15,15 @@ author_profile: true
 ## 分类导航
 
 - [分析/方程]({{ site.baseurl }}/analysis/)
-- [代数/数论]({{ site.baseurl }}/algebra/)
+- [几何/拓扑]({{ site.baseurl }}/geometry-topology/)
 - [概率/统计]({{ site.baseurl }}/probability/)
-- [数学建模]({{ site.baseurl }}/modeling/)
+- [代数/数论]({{ site.baseurl }}/algebra/)
+- [应用数学]({{ site.baseurl }}/applied/)
 - [公共课程]({{ site.baseurl }}/public-courses/)
 - [招生/资格考]({{ site.baseurl }}/entrance/)
+- [投稿方式]({{ site.baseurl }}/submit/)
 
-## 试卷投稿须知
+## 投稿方式
 
 欢迎同学投稿试卷、回忆版题目、答案或整理版资料。投稿时请尽量提供 PDF 文件，并说明：
 
@@ -34,3 +38,7 @@ author_profile: true
 ## 更新说明
 
 本页面不保证实时更新。收到投稿后，维护者会先检查清晰度、分类、文件命名与基本合规性，再统一合并。
+
+## 免责声明
+
+本项目为非官方学生维护资料索引，与湘潭大学、学院及任课教师官方立场无关。资料仅供学习交流和课程复习参考，请勿用于商业用途或违反版权、考试纪律的场景。

@@ -4,27 +4,29 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 #
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
+# This site uses only the exam-category links below.
 
 main:
-  - title: "首页"
-    url: /
-
   - title: "分析/方程"
     url: /analysis/
 
-  - title: "代数/数论"
-    url: /algebra/
+  - title: "几何/拓扑"
+    url: /geometry-topology/
 
   - title: "概率/统计"
     url: /probability/
 
+  - title: "代数/数论"
+    url: /algebra/
+
   - title: "应用数学"
-    url: /applied math/
+    url: /applied/
 
   - title: "公共课程"
     url: /public-courses/
+
+  - title: "招生/资格考"
+    url: /entrance/
 
   - title: "投稿"
     url: /submit/
