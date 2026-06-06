@@ -12,7 +12,7 @@ author_profile: true
 
 | 年份 | 学期 | 期中考试 | 期末考试 | 答案/解析 | 授课教师 | 备注 |
 |---|---|---|---|---|---|---|
-| 2026 | 春 | 暂缺 | [期末回忆版](files/modeling/2026spring_math_modeling_final_xtu.pdf) | 暂缺 | 暂缺 | 学生回忆版 |
+| 2026 | 春 | 暂缺 | [期末回忆版]({{ site.baseurl }}/files/modeling/2026spring_math_modeling_final_xtu.pdf) | 暂缺 | 暂缺 | 学生回忆版 |
 | 2025 | 春 | 暂缺 | 暂缺 | 暂缺 | 暂缺 | - |
 
 ## 运筹与最优化
