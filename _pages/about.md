@@ -12,12 +12,12 @@ author_profile: true
 
 ## 分类导航
 
-- [分析/方程](/analysis/)
-- [代数/数论](/algebra/)
-- [概率/统计](/probability/)
-- [数学建模](/modeling/)
-- [公共课程](/public-courses/)
-- [招生/资格考](/entrance/)
+- [分析/方程]({{ site.baseurl }}/analysis/)
+- [代数/数论]({{ site.baseurl }}/algebra/)
+- [概率/统计]({{ site.baseurl }}/probability/)
+- [数学建模]({{ site.baseurl }}/modeling/)
+- [公共课程]({{ site.baseurl }}/public-courses/)
+- [招生/资格考]({{ site.baseurl }}/entrance/)
 
 ## 试卷投稿须知
 
